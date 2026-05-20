@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AvgTemp": {
+      "commandName": "Project",
+      "commandLineArgs": "10 23 36 2 3 \r\n"
+    }
+  }
+}
