@@ -1,0 +1,1 @@
+Overview of some code examples for the IoT devices course for VIVES University of Applied Sciences (Bachelor Degree).

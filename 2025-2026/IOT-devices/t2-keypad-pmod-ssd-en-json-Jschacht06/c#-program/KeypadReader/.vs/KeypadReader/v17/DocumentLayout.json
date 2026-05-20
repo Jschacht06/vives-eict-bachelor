@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juhas\\Documents\\espeel\\t2-keypad-pmod-ssd-en-json-Jschacht06\\c#-program\\KeypadReader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6441740-AF39-45ED-BF83-FBD9D252B52E}|KeypadReader\\KeypadReader.csproj|c:\\users\\juhas\\documents\\espeel\\t2-keypad-pmod-ssd-en-json-jschacht06\\c#-program\\keypadreader\\keypadreader\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6441740-AF39-45ED-BF83-FBD9D252B52E}|KeypadReader\\KeypadReader.csproj|solutionrelative:keypadreader\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6441740-AF39-45ED-BF83-FBD9D252B52E}|KeypadReader\\KeypadReader.csproj|c:\\users\\juhas\\documents\\espeel\\t2-keypad-pmod-ssd-en-json-jschacht06\\c#-program\\keypadreader\\keypadreader\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6441740-AF39-45ED-BF83-FBD9D252B52E}|KeypadReader\\KeypadReader.csproj|solutionrelative:keypadreader\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6441740-AF39-45ED-BF83-FBD9D252B52E}|KeypadReader\\KeypadReader.csproj|c:\\users\\juhas\\documents\\espeel\\t2-keypad-pmod-ssd-en-json-jschacht06\\c#-program\\keypadreader\\keypadreader\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6441740-AF39-45ED-BF83-FBD9D252B52E}|KeypadReader\\KeypadReader.csproj|solutionrelative:keypadreader\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6441740-AF39-45ED-BF83-FBD9D252B52E}|KeypadReader\\KeypadReader.csproj|c:\\users\\juhas\\documents\\espeel\\t2-keypad-pmod-ssd-en-json-jschacht06\\c#-program\\keypadreader\\keypadreader\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6441740-AF39-45ED-BF83-FBD9D252B52E}|KeypadReader\\KeypadReader.csproj|solutionrelative:keypadreader\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\juhas\\Documents\\espeel\\t2-keypad-pmod-ssd-en-json-Jschacht06\\c#-program\\KeypadReader\\KeypadReader\\App.xaml",
+              "RelativeDocumentMoniker": "KeypadReader\\App.xaml",
+              "ToolTip": "C:\\Users\\juhas\\Documents\\espeel\\t2-keypad-pmod-ssd-en-json-Jschacht06\\c#-program\\KeypadReader\\KeypadReader\\App.xaml",
+              "RelativeToolTip": "KeypadReader\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-19T21:26:52.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Documents\\espeel\\t2-keypad-pmod-ssd-en-json-Jschacht06\\c#-program\\KeypadReader\\KeypadReader\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "KeypadReader\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\juhas\\Documents\\espeel\\t2-keypad-pmod-ssd-en-json-Jschacht06\\c#-program\\KeypadReader\\KeypadReader\\AssemblyInfo.cs",
+              "RelativeToolTip": "KeypadReader\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:52:52.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\juhas\\Documents\\espeel\\t2-keypad-pmod-ssd-en-json-Jschacht06\\c#-program\\KeypadReader\\KeypadReader\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KeypadReader\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\juhas\\Documents\\espeel\\t2-keypad-pmod-ssd-en-json-Jschacht06\\c#-program\\KeypadReader\\KeypadReader\\MainWindow.xaml",
+              "RelativeToolTip": "KeypadReader\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-17T12:50:02.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Documents\\espeel\\t2-keypad-pmod-ssd-en-json-Jschacht06\\c#-program\\KeypadReader\\KeypadReader\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeypadReader\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\juhas\\Documents\\espeel\\t2-keypad-pmod-ssd-en-json-Jschacht06\\c#-program\\KeypadReader\\KeypadReader\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KeypadReader\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:49:53.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
